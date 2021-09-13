@@ -3,8 +3,8 @@ FEDERATION_SERVER="https://api.stellar.org/federation/"
 [[CURRENCIES]] 
 name="Rupiah Token" 
 code="RUPIAH" 
-desc="Rupiah Token (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah (globally known as IDR or Rupiah) within blockchain. It is privately use to secure Juragan Token (Asset Code : GAN) in any Security Token Offering (STO) Events." 
-conditions="Buy Juragan Token (Asset Code : GAN) to participating in Security Token Offering (STO). Your GAN would be secured by Rupiah Token (Asset Code : RUPIAH). For more details please visit https://juragan.top" 
+desc="Rupiah Token (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within blockchain." 
+conditions="Buy RUPIAH to enter spesific market that secured by Rupiah Token." 
 issuer="GARUDAPB2D3ARKILZNQ5UIP766PSXHZAPBJO4ZIZNBLAXBTVYADRP4RU" 
 display_decimals=5 
 image="https://rupiahtoken.top/logo.png"
