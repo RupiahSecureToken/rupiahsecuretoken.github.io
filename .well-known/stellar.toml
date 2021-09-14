@@ -1,4 +1,6 @@
-FEDERATION_SERVER="https://api.stellar.org/federation/" 
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015" 
+FEDERATION_SERVER="https://api.stellar.org/federation" 
+HORIZON_URL="https://horizon.stellar.org"
 
 ACCOUNTS=[
 "GARUDAPB2D3ARKILZNQ5UIP766PSXHZAPBJO4ZIZNBLAXBTVYADRP4RU",
