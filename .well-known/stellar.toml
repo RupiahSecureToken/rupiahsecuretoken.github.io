@@ -1,10 +1,19 @@
 FEDERATION_SERVER="https://api.stellar.org/federation/" 
 
+ACCOUNTS=[
+"GARUDAPB2D3ARKILZNQ5UIP766PSXHZAPBJO4ZIZNBLAXBTVYADRP4RU",
+"GARUDAXIUR6UAFNIZ2CYXPFCKCQ2FJJRPTCSUROFSGARNEP366RNKIWY",
+"GARUDADZKTQ3TWM3H5TBU3IIPOTTMDXVKMXN5PWGL7DQBIFBU3Z7QIFY",
+"GARUDAJ2VXI5JCV5ZUD3AOFZK5FAO3D5SFZ76FJOP76G64OCT76FDIAW",
+"GARUDAUH6JF2567OGYMD4VKWXSKB4DK4LOC5SELLZYKU46VCSZP3AHET",
+"GARUDA2QVW4YB6FQBZUC7OJDX556D2P3U7WTNSBNKG66MOB7HN55AWIS"
+]
+
 [[CURRENCIES]] 
-name="Rupiah Token" 
 code="RUPIAH" 
-desc="Rupiah Token (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within blockchain." 
-conditions="Buy RUPIAH to enter spesific market that secured by Rupiah Token." 
 issuer="GARUDAPB2D3ARKILZNQ5UIP766PSXHZAPBJO4ZIZNBLAXBTVYADRP4RU" 
+name="Rupiah Token" 
+desc="Rupiah Token (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within blockchain." 
 display_decimals=5 
+conditions="Buy RUPIAH to enter spesific market that secured by Rupiah Token." 
 image="https://rupiahtoken.top/logo.png"
