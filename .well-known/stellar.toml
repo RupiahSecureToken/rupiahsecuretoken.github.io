@@ -11,15 +11,15 @@ ACCOUNTS=[
 
 [DOCUMENTATION] 
 ORG_NAME="Rupiah Token" 
-ORG_URL="https://rupiahtoken.top" 
-ORG_LOGO="https://rupiahtoken.top/logo.png" 
+ORG_URL="https://rupiah.top" 
+ORG_LOGO="https://rupiah.top/logo.png" 
 
 [[CURRENCIES]] 
 code="RUPIAH" 
 issuer="GARUDAPB2D3ARKILZNQ5UIP766PSXHZAPBJO4ZIZNBLAXBTVYADRP4RU" 
-status="LIVE" 
+status="live" 
 name="Rupiah Token" 
 desc="Rupiah Token (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within blockchain."  
 display_decimals=7 
 conditions="Buy RUPIAH to enter spesific market that supported or secured by Rupiah Token." 
-image="https://rupiahtoken.top/logo/64x64.svg" 
+image="https://rupiah.top/logo.png" 
