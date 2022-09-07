@@ -3,7 +3,7 @@ FEDERATION_SERVER="https://api.stellar.org/federation"
 [DOCUMENTATION] 
 ORG_NAME="Rupiah Token" 
 ORG_URL="https://rupiah.top" 
-ORG_LOGO="https://rupiah.top/logo.png" 
+ORG_LOGO="https://rupiah.top/logo.webp" 
 
 [[CURRENCIES]] 
 code="RUPIAH" 
@@ -13,4 +13,4 @@ name="Rupiah Token"
 desc="Rupiah Token (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within blockchain."  
 display_decimals=7 
 conditions="Buy RUPIAH to enter spesific market that supported or secured by Rupiah Token." 
-image="https://rupiah.top/logo.png" 
+image="https://rupiah.top/logo.webp" 
